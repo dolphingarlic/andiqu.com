@@ -1,0 +1,68 @@
+@import url(https://fonts.googleapis.com/css?family=Roboto);
+@import url(https://fonts.googleapis.com/css?family=Material+Icons);
+
+:host {
+    font-family: Roboto, Helvetica, Arial, sans-serif;
+}
+
+#home {
+    min-height: 100vh;
+}
+
+#about {
+    min-height: 100vh;
+}
+
+div {
+    display: block;
+}
+
+hr {
+    width: 50px;
+}
+
+.center {
+    text-align: center;
+}
+
+.section-heading {
+    margin: 0;
+}
+
+.sticky {
+    position: fixed;
+    top: 0;
+    right: 0;
+    height: 40px;
+    text-align-all: right;
+    background-color: blue;
+    color: white;
+    opacity: 0.9;
+}
+
+.Typist.signature {
+    width: 250px;
+    padding: 10px;
+}
+.triangle {
+    background-color: blue;
+    position: absolute;
+    transform: rotate(50deg) translate(-20px, -38px);
+    height: 60px;
+    width: 80px;
+    right: 250px;
+}
+.blinking {
+    position: absolute;
+    top: 7px;
+    right: 5px;
+    font-size: 125%;
+}
+.active {
+    position: absolute;
+    right: 10px;
+}
+
+.text {
+    padding: 10px;
+}
