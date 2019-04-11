@@ -1,0 +1,12 @@
+section {
+    min-height: 100vh;
+    padding: 10px;
+}
+
+hr {
+    width: 50px;
+}
+
+.section-heading {
+    margin: 0;
+}

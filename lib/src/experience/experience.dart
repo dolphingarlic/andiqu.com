@@ -7,7 +7,7 @@ import 'package:angular_components/angular_components.dart';
     MaterialSliderComponent,
   ],
   templateUrl: 'experience.html',
-  styleUrls: [],
+  styleUrls: ['experience.css'],
 )
 class ExperienceComponent {
   int value = 2;
