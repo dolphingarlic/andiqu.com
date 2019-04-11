@@ -2,12 +2,24 @@ import 'dart:async';
 import 'dart:html';
 
 import 'package:angular/angular.dart';
+import 'package:angular_components/angular_components.dart';
+
+import 'src/experience/experience.dart';
+import 'src/about/about.dart';
 
 const _pulse = const Duration(milliseconds: 30);
 const _pause = const Duration(milliseconds: 250);
 
 @Component(
   selector: 'andiqu',
+  directives: [
+    ExperienceComponent,
+    MaterialSliderComponent,
+    AboutComponent,
+  ],
+  providers: [
+    materialProviders,
+  ],
   styleUrls: ['andiqu.css'],
   templateUrl: 'andiqu.html',
 )
