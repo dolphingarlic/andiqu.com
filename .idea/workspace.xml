@@ -1,28 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="88da8a21-c7c2-4af4-9e45-6c76b7e28f74" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/lib/src/about/about.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/src/experience/experience.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/src/home/home.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/src/signature/signature.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/src/signature/signature.dart" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/src/signature/signature.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/andiqu.css" beforeDir="false" afterPath="$PROJECT_DIR$/lib/andiqu.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/andiqu.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/andiqu.dart" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/andiqu.html" beforeDir="false" afterPath="$PROJECT_DIR$/lib/andiqu.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/favicon.png" beforeDir="false" afterPath="$PROJECT_DIR$/lib/favicon.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/src/about/about.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/src/about/about.dart" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/src/about/about.html" beforeDir="false" afterPath="$PROJECT_DIR$/lib/src/about/about.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/src/experience/experience.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/src/experience/experience.dart" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/src/experience/experience.html" beforeDir="false" afterPath="$PROJECT_DIR$/lib/src/experience/experience.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/src/home/home.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/src/home/home.dart" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/src/home/home.html" beforeDir="false" afterPath="$PROJECT_DIR$/lib/src/home/home.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/favicon.png" beforeDir="false" afterPath="$PROJECT_DIR$/web/favicon.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/web/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/web/styles.css" afterDir="false" />
-    </list>
+    <list default="true" id="88da8a21-c7c2-4af4-9e45-6c76b7e28f74" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -252,16 +231,15 @@
       <workItem from="1554719171280" duration="2746000" />
       <workItem from="1554994730175" duration="833000" />
       <workItem from="1554996108668" duration="10059000" />
-      <workItem from="1555011967798" duration="1171000" />
+      <workItem from="1555011967798" duration="1414000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="35943000" />
+    <option name="totallyTimeSpent" value="36186000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="57" y="28" width="1309" height="740" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2496112" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
