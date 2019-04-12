@@ -61,7 +61,7 @@ class SignatureComponent implements OnInit {
     _deleting = false;
     _list_index = 0;
     _string_index = 0;
-    active = querySelector('.text');
+    active = querySelector('.typing');
 
     _typist = Timer.periodic(_pulse, (_) => type());
     window.onScroll.listen((Event event) => updateSticky());

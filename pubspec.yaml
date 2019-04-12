@@ -1,8 +1,8 @@
 name: andiqu
 description: Andi Qu - The Website
 # version: 1.0.0
-# homepage: https://www.example.com
-# author: andi <email@example.com>
+# homepage: https://www.andiqu.com
+# author: andi <andi@andiqu.com>
 
 environment:
   sdk: '>=2.0.0 <3.0.0'
