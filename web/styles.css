@@ -10,3 +10,8 @@ html, body {
 .loading {
     padding: 10px;
 }
+
+hr {
+    width: 50px;
+    border: 2px solid;
+}

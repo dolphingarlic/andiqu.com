@@ -21,5 +21,4 @@ import 'src/signature/signature.dart';
   styleUrls: ['andiqu.css'],
   templateUrl: 'andiqu.html',
 )
-class AppComponent {
-}
+class AppComponent {}

@@ -19,10 +19,16 @@ class SignatureComponent implements OnInit {
   var active;
 
   List<String> signatures = [
-    'Hello world!',
-    'Dart is very cool',
-    'I try to program well',
-    'Andi Qu',
+    'tmw orz',
+    'summit orz',
+    'prodakcin orz',
+    'fishy orz',
+    'benq orz',
+    'duk orz',
+    'pusheen orz',
+    'arrayman orz',
+    'gamegame orz',
+    'dorijanko orz',
   ];
 
   Future sleep() {

@@ -4,7 +4,7 @@
     right: 0;
     height: 40px;
     text-align-all: right;
-    background-color: #0044ff;
+    background-color: #54c5f8;
     color: white;
     opacity: 0.9;
 }
@@ -14,7 +14,7 @@
     padding: 10px;
 }
 .triangle {
-    background-color: #0044ff;
+    background-color: #54c5f8;
     position: absolute;
     transform: rotate(50deg) translate(-20px, -38px);
     height: 60px;

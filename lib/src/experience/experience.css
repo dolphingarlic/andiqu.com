@@ -1,12 +1,22 @@
-section {
+#experience {
     min-height: 100vh;
-    padding: 10px;
-}
-
-hr {
-    width: 50px;
+    padding: 5vh 2vw;
+    color: #01579B;
 }
 
 .section-heading {
     margin: 0;
+    font-size: 40px;
+    color: black;
+}
+
+material-slider {
+    display: inline-block;
+    width: 400px;
+}
+
+@media only screen and (max-width: 600px) {
+    material-slider {
+        width: 80vw;
+    }
 }
