@@ -11,4 +11,8 @@ import 'package:angular_components/angular_components.dart';
 )
 class ExperienceComponent {
   int value = 2;
+
+  void handleSlide() async {
+    print(value);
+  }
 }

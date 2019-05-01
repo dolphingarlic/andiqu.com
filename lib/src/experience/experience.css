@@ -10,13 +10,15 @@
     color: black;
 }
 
-material-slider {
-    display: inline-block;
+#slider-parent {
     width: 400px;
+    margin: auto;
+    position: relative;
+    text-align: center;
 }
 
 @media only screen and (max-width: 600px) {
-    material-slider {
+    #slider-parent {
         width: 80vw;
     }
 }
