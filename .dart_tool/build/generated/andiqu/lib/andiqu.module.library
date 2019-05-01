@@ -1,0 +1,1 @@
+{"isEntrypoint":true,"deps":["angular|lib/angular.dart","angular_components|lib/angular_components.dart","andiqu|lib/src/experience/experience.dart","andiqu|lib/src/about/about.dart","andiqu|lib/src/home/home.dart","andiqu|lib/src/signature/signature.dart"],"parts":[],"conditionalDeps":[],"sdkDeps":[]}

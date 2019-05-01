@@ -1,0 +1,1 @@
+{"isEntrypoint":true,"deps":["angular_components|lib/model/menu/menu_item_affix.dart","meta|lib/meta.dart","angular_components|lib/model/ui/icon.dart","angular_components|lib/model/ui/icon.template.dart"],"parts":[],"conditionalDeps":[],"sdkDeps":[]}

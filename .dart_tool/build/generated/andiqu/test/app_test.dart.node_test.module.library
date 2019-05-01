@@ -1,0 +1,1 @@
+{"isEntrypoint":true,"deps":["test|lib/bootstrap/node.dart","andiqu|test/app_test.dart"],"parts":[],"conditionalDeps":[],"sdkDeps":[]}

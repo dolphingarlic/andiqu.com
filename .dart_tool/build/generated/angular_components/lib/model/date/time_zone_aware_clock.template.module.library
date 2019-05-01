@@ -1,0 +1,1 @@
+{"isEntrypoint":true,"deps":["angular_components|lib/model/date/time_zone_aware_clock.dart","angular|lib/di.dart","logging|lib/logging.dart","meta|lib/meta.dart","quiver|lib/time.dart","angular|lib/src/di/reflector.dart","angular|lib/di.template.dart"],"parts":[],"conditionalDeps":[],"sdkDeps":["async"]}
