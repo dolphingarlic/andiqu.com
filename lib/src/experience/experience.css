@@ -10,15 +10,18 @@
     color: black;
 }
 
-#slider-parent {
+material-slider {
     width: 400px;
-    margin: auto;
-    position: relative;
-    text-align: center;
+    display: inline-block;
+}
+
+.flex-container {
+    display: flex;
+    flex-flow: column wrap;
 }
 
 @media only screen and (max-width: 600px) {
-    #slider-parent {
+    material-slider {
         width: 80vw;
     }
 }

@@ -11,8 +11,12 @@ import 'package:angular_components/angular_components.dart';
 )
 class ExperienceComponent {
   int value = 2;
-
-  void handleSlide() async {
-    print(value);
-  }
+  final List<String> details = [
+    'Bare minimum',
+    'Less detailed',
+    'Default',
+    'More detailed',
+    'Very detailed',
+  ];
+  String get current_detail => details[value];
 }
