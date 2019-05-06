@@ -1,5 +1,4 @@
 #experience {
-    min-height: 100vh;
     padding: 5vh 2vw;
     color: #01579B;
 }
@@ -17,11 +16,33 @@ material-slider {
 
 .flex-container {
     display: flex;
-    flex-flow: column wrap;
+    flex-flow: row wrap;
+    justify-content: center;
+}
+
+.column {
+    padding: 2vw;
+    width: 40vw;
+}
+
+ul {
+    list-style: none;
+    padding: 0;
+}
+
+.achievement-heading {
+    margin: 0;
+    font-size: 30px;
+    color: #013579;
 }
 
 @media only screen and (max-width: 600px) {
     material-slider {
         width: 80vw;
+    }
+}
+@media only screen and (max-width: 800px) {
+    .column {
+        width: 82vw;
     }
 }

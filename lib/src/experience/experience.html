@@ -2,10 +2,55 @@
     <div style="text-align: center;">
         <h1 class="section-heading">THINGS I'VE DONE</h1>
         <hr>
-        <p><b>Last update:</b> April 14 2019</p>
+        <p style="margin: 0;"><b>Last update:</b> April 14 2019</p>
         <material-slider [(value)]="value" [max]="4"></material-slider>
         <p style="margin-top: 0;">{{current_detail}}</p>
     </div>
 
-    <div class="flex-container"></div>
+    <div class="flex-container">
+        <div class="column">
+            <h1 class="achievement-heading">Programming/Other CS</h1>
+            <ul>
+                <li *ngFor="let achievement of cs_achievements">
+                    <div *ngIf="achievement.importance > 4 - value">
+                        <h2>{{achievement.title}}</h2>
+                        <h3>{{achievement.date}} // {{achievement.organization}}</h3>
+                        {{achievement.content}}
+                    </div>
+                </li>
+            </ul>
+            <h1 class="achievement-heading">Maths</h1>
+            <ul>
+                <li *ngFor="let achievement of maths_achievements">
+                    <div *ngIf="achievement.importance > 4 - value">
+                        <h2>{{achievement.title}}</h2>
+                        <h3>{{achievement.date}} // {{achievement.organization}}</h3>
+                        {{achievement.content}}
+                    </div>
+                </li>
+            </ul>
+        </div>
+        <div class="column">
+            <h1 class="achievement-heading">Music</h1>
+            <ul>
+                <li *ngFor="let achievement of music_achievements">
+                    <div *ngIf="achievement.importance > 4 - value">
+                        <h2>{{achievement.title}}</h2>
+                        <h3>{{achievement.date}} // {{achievement.organization}}</h3>
+                        {{achievement.content}}
+                    </div>
+                </li>
+            </ul>
+            <h1 class="achievement-heading">Miscellaneous</h1>
+            <ul>
+                <li *ngFor="let achievement of misc_achievements">
+                    <div *ngIf="achievement.importance > 4 - value">
+                        <h2>{{achievement.title}}</h2>
+                        <h3>{{achievement.date}} // {{achievement.organization}}</h3>
+                        {{achievement.content}}
+                    </div>
+                </li>
+            </ul>
+        </div>
+    </div>
 </section>
