@@ -9,35 +9,44 @@
 
     <div class="flex-container">
         <div class="column">
-            <h1 class="achievement-heading">Programming/Other CS</h1>
+            <h1 class="achievement-heading">Programming / Other CS</h1>
             <ul>
                 <li *ngFor="let achievement of cs_achievements">
                     <div *ngIf="achievement.importance > 4 - value">
-                        <h2>{{achievement.title}}</h2>
-                        <h3>{{achievement.date}} // {{achievement.organization}}</h3>
-                        {{achievement.content}}
+                        <h2 class="achievement-title">{{achievement.title}}</h2>
+                        <h3 class="achievement-sub">
+                            <span>{{achievement.date}}</span> //
+                            <span class="org-span">{{achievement.organization}}</span>
+                        </h3>
+                        <div [innerHTML]="achievement.content"></div>
                     </div>
                 </li>
             </ul>
-            <h1 class="achievement-heading">Maths</h1>
+            <h1 class="achievement-heading">Music</h1>
             <ul>
-                <li *ngFor="let achievement of maths_achievements">
+                <li *ngFor="let achievement of music_achievements">
                     <div *ngIf="achievement.importance > 4 - value">
-                        <h2>{{achievement.title}}</h2>
-                        <h3>{{achievement.date}} // {{achievement.organization}}</h3>
-                        {{achievement.content}}
+                        <h2 class="achievement-title">{{achievement.title}}</h2>
+                        <h3 class="achievement-sub">
+                            <span>{{achievement.date}}</span> //
+                            <span class="org-span">{{achievement.organization}}</span>
+                        </h3>
+                        <div [innerHTML]="achievement.content"></div>
                     </div>
                 </li>
             </ul>
         </div>
         <div class="column">
-            <h1 class="achievement-heading">Music</h1>
+            <h1 class="achievement-heading">Maths</h1>
             <ul>
-                <li *ngFor="let achievement of music_achievements">
+                <li *ngFor="let achievement of maths_achievements">
                     <div *ngIf="achievement.importance > 4 - value">
-                        <h2>{{achievement.title}}</h2>
-                        <h3>{{achievement.date}} // {{achievement.organization}}</h3>
-                        {{achievement.content}}
+                        <h2 class="achievement-title">{{achievement.title}}</h2>
+                        <h3 class="achievement-sub">
+                            <span>{{achievement.date}}</span> //
+                            <span class="org-span">{{achievement.organization}}</span>
+                        </h3>
+                        <div [innerHTML]="achievement.content"></div>
                     </div>
                 </li>
             </ul>
@@ -45,9 +54,12 @@
             <ul>
                 <li *ngFor="let achievement of misc_achievements">
                     <div *ngIf="achievement.importance > 4 - value">
-                        <h2>{{achievement.title}}</h2>
-                        <h3>{{achievement.date}} // {{achievement.organization}}</h3>
-                        {{achievement.content}}
+                        <h2 class="achievement-title">{{achievement.title}}</h2>
+                        <h3 class="achievement-sub">
+                            <span>{{achievement.date}}</span> //
+                            <span class="org-span">{{achievement.organization}}</span>
+                        </h3>
+                        <div [innerHTML]="achievement.content"></div>
                     </div>
                 </li>
             </ul>

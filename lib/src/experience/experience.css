@@ -33,7 +33,21 @@ ul {
 .achievement-heading {
     margin: 0;
     font-size: 30px;
+    color: black;
+}
+
+.org-span {
+    font-weight: 400;
+}
+
+.achievement-title {
+    margin-bottom: 2px;
     color: #013579;
+}
+
+.achievement-sub {
+    margin-top: 2px;
+    color: #54c5f8;
 }
 
 @media only screen and (max-width: 600px) {
