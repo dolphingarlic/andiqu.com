@@ -4,7 +4,7 @@ import 'dart:math';
 
 import 'package:angular/angular.dart';
 
-const _pulse = const Duration(milliseconds: 30);
+const _pulse = const Duration(milliseconds: 40);
 const _pause = const Duration(milliseconds: 250);
 
 @Component(
@@ -19,16 +19,13 @@ class SignatureComponent implements OnInit {
   var active;
 
   List<String> signatures = [
-    'tmw orz',
-    'summit orz',
-    'prodakcin orz',
-    'fishy orz',
-    'benq orz',
-    'duk orz',
-    'pusheen orz',
-    'arrayman orz',
-    'gamegame orz',
-    'dorijanko orz',
+    'Andi Qu',
+    'Pianist',
+    'I kinda like maths sometimes',
+    'Competitive Programmer',
+    'Problem Solver',
+    'Level 42 Pigeon Enthusiast',
+    'Cool Kid™',
   ];
 
   Future sleep() {
