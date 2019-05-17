@@ -1,1 +1,0 @@
-{"isEntrypoint":true,"deps":["angular|lib/angular.dart","intl|lib/intl.dart","angular_components|lib/glyph/glyph.dart","angular_components|lib/src/material_datepicker/sequential.dart","angular_components|lib/utils/disposer/disposer.dart"],"parts":[],"conditionalDeps":[],"sdkDeps":["html"]}

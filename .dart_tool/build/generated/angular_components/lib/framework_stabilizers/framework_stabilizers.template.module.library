@@ -1,1 +1,0 @@
-{"isEntrypoint":true,"deps":["angular_components|lib/framework_stabilizers/framework_stabilizers.dart","js|lib/js.dart"],"parts":[],"conditionalDeps":[],"sdkDeps":["js"]}

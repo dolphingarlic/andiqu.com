@@ -1,1 +1,0 @@
-{"isEntrypoint":false,"deps":["angular_test|lib/src/frontend/stabilizer.dart","meta|lib/meta.dart","angular|lib/di.dart","angular|lib/experimental.dart","angular_test|lib/src/errors.dart","angular_test|lib/src/errors.template.dart","angular|lib/di.template.dart","angular|lib/experimental.template.dart"],"parts":[],"conditionalDeps":[],"sdkDeps":["async"]}

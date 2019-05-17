@@ -1,1 +1,0 @@
-{"isEntrypoint":true,"deps":["angular|lib/angular.dart","angular_components|lib/button_decorator/button_decorator.dart"],"parts":[],"conditionalDeps":[],"sdkDeps":["async","html"]}

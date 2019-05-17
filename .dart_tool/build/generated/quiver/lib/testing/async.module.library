@@ -1,1 +1,0 @@
-{"isEntrypoint":true,"deps":["dart2_constant|lib/core.dart","quiver|lib/time.dart"],"parts":["quiver|lib/testing/src/async/fake_async.dart"],"conditionalDeps":[],"sdkDeps":["async","collection"]}

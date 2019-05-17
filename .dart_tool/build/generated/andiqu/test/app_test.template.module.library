@@ -1,1 +1,0 @@
-{"isEntrypoint":false,"deps":["andiqu|test/app_test.dart","angular_test|lib/angular_test.dart","test|lib/test.dart","andiqu|lib/andiqu.dart","andiqu|lib/app_component.template.dart","andiqu|lib/andiqu.template.dart","angular_test|lib/angular_test.template.dart"],"parts":[],"conditionalDeps":[],"sdkDeps":[]}

@@ -1,1 +1,0 @@
-{"isEntrypoint":true,"deps":["angular_components|lib/material_datepicker/proto/date_range.pb.dart","protobuf|lib/protobuf.dart","angular_components|lib/material_datepicker/proto/date.pb.dart","angular_components|lib/material_datepicker/proto/date.pb.template.dart"],"parts":[],"conditionalDeps":[],"sdkDeps":["core"]}
