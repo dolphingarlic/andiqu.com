@@ -1,0 +1,4 @@
+library asset_andiqu_lib_src_experience_experience.css.shim.dart;
+
+
+final List<dynamic> styles = ['#experience._ngcontent-%ID%{padding:5vh 2vw;color:#01579B}.section-heading._ngcontent-%ID%{margin:0;font-size:40px;color:black}material-slider._ngcontent-%ID%{width:400px;display:inline-block}.flex-container._ngcontent-%ID%{display:flex;flex-flow:row wrap;justify-content:center}.column._ngcontent-%ID%{padding:2vw;width:40vw}ul._ngcontent-%ID%{list-style:none;padding:0}.achievement-heading._ngcontent-%ID%{margin:0;font-size:30px;color:black}.org-span._ngcontent-%ID%{font-weight:400}.achievement-title._ngcontent-%ID%{margin-bottom:2px;color:#013579}.achievement-sub._ngcontent-%ID%{margin-top:2px;color:#54c5f8}@media ONLY screen AND (max-width:600px){material-slider._ngcontent-%ID%{width:80vw}}@media ONLY screen AND (max-width:800px){.column._ngcontent-%ID%{width:82vw}}'];
