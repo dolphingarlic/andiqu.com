@@ -16,22 +16,6 @@
     font-size: 65px;
 }
 
-@media only screen and (max-width: 600px) {
-    #home {
-        padding: 10vh 5vw;
-        font-size: 18px;
-    }
-    .section-heading {
-        font-size: 40px;
-    }
-    blockquote {
-        max-width: 70vw;
-    }
-    cite {
-        font-size: 13px;
-    }
-}
-
 blockquote {
     font-style: italic;
     margin: auto;
@@ -43,17 +27,17 @@ blockquote {
 blockquote:before {
     display: block;
     content: "\201C";
-    font-size: 80px;
-    left: 0;
-    top: 0;
+    font-size: 70px;
+    left: 7px;
+    top: 7px;
     position: absolute;
 }
 blockquote:after {
     display: block;
     content: "\201E";
     font-size: 80px;
-    right: 20px;
-    bottom: 20px;
+    right: 23px;
+    bottom: 23px;
     position: absolute;
 }
 
@@ -62,4 +46,24 @@ blockquote cite:before {
 }
 cite {
     font-size: 15px;
+}
+
+@media only screen and (max-width: 600px) {
+    #home {
+        padding: 10vh 5vw;
+        font-size: 18px;
+        height: 100vh;
+    }
+    .section-heading {
+        font-size: 40px;
+    }
+    blockquote {
+        max-width: 70vw;
+    }
+    blockquote:after, blockquote:before {
+        font-size: 55px;
+    }
+    cite {
+        font-size: 13px;
+    }
 }

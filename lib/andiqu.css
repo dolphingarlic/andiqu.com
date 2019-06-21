@@ -1,6 +1,21 @@
-@import url(https://fonts.googleapis.com/css?family=Roboto);
-@import url(https://fonts.googleapis.com/css?family=Material+Icons);
+.page-footer {
+    background-color: darkslategray;
+    color: white;
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: center;
+    height: 70px;
+    font-size: 14px;
+}
+.page-footer div {
+    margin: auto;
+}
 
-:host {
-    font-family: Roboto, Helvetica, Arial, sans-serif;
+a {
+    color: white;
+    text-decoration: none;
+}
+a:hover, a:active {
+    color: lightblue;
+    text-decoration: none;
 }
