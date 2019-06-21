@@ -1,5 +1,3 @@
-import 'dart:html';
-
 import 'package:angular/angular.dart';
 import 'package:angular_components/angular_components.dart';
 import 'package:angular/security.dart';
@@ -79,5 +77,4 @@ class AboutComponent {
 
   bool fun = false;
   SafeHtml get aboutText => fun ? fun_about : boring_about;
-  
 }
