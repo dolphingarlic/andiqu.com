@@ -37,4 +37,14 @@ final List<Achievement> cs = [
     <p>Bronze medallist in the 2019 Asian Pacific Informatics Olympiad</p>
     ''',
     4),
+  Achievement(
+    'Google Code Jam 2019 3rd Round Qualifier',
+    'May 2019',
+    'Google Code Jam',
+    '''
+    <p>3rd round qualifier for the 2019 Google Code Jam. The top 1000 participants
+    of round 2 qualified for round 3.</p>
+    <p>As a bonus, I also won a Google T-shirt because of this</p>
+    ''',
+    3),
 ];

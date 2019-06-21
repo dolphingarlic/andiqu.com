@@ -38,9 +38,11 @@ class AboutComponent {
   
     <div style="text-align: center;">
         <p>Who am I? Of course, I am...</p>
-        The One<br>
-        The Only<br>
-        Andi Qu
+        <b>
+          The One<br>
+          The Only<br>
+          Andi Qu
+        </b>
     </div>
     ''');
 

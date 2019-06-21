@@ -10,7 +10,6 @@ import 'src/signature/signature.dart';
   selector: 'andiqu',
   directives: [
     ExperienceComponent,
-    MaterialSliderComponent,
     AboutComponent,
     HomeComponent,
     SignatureComponent,

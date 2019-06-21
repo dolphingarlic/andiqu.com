@@ -1,7 +1,7 @@
 #home {
     min-height: 70vh;
     padding: 15vh 5vw;
-    font-size: 20px;
+    font-size: 22px;
     color: white;
 
     background-color: #54c5f8;
@@ -19,15 +19,47 @@
 @media only screen and (max-width: 600px) {
     #home {
         padding: 10vh 5vw;
-    }
-    section {
-        font-size: 16px;
+        font-size: 18px;
     }
     .section-heading {
         font-size: 40px;
+    }
+    blockquote {
+        max-width: 70vw;
+    }
+    cite {
+        font-size: 13px;
     }
 }
 
 blockquote {
     font-style: italic;
+    margin: auto;
+    padding: 0.35em 40px;
+    max-width: 40vw;
+    position: relative;
+}
+
+blockquote:before {
+    display: block;
+    content: "\201C";
+    font-size: 80px;
+    left: 0;
+    top: 0;
+    position: absolute;
+}
+blockquote:after {
+    display: block;
+    content: "\201E";
+    font-size: 80px;
+    right: 20px;
+    bottom: 20px;
+    position: absolute;
+}
+
+blockquote cite:before {
+    content: "\2014 \2009";
+}
+cite {
+    font-size: 15px;
 }
