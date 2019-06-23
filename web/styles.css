@@ -15,3 +15,12 @@ hr {
     width: 50px;
     border: 2px solid;
 }
+
+::selection {
+    background: #035579; /* WebKit/Blink Browsers */
+    color: white;
+}
+::-moz-selection {
+    background: #035579; /* Gecko Browsers */
+    color: white;
+}

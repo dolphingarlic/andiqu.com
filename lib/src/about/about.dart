@@ -56,7 +56,7 @@ class AboutComponent {
     <p>
         My interests include playing the piano and clarinet, competitive programming, and olympiad maths.
         Sometimes, I also (try to) contribute to FOSS initiatives like
-        <a style="color: #01579B !important;text-decoration: none;" href="https://www.apertium.org">Apertium</a>,
+        <a style="color: #409de6 !important;text-decoration: none;" href="https://www.apertium.org">Apertium</a>,
         but unfortunately this does not happen very often.
     </p>
     <p>
@@ -67,8 +67,8 @@ class AboutComponent {
         To that, I say: Yes, it is quite true - and unfortunate - that I have created a surprisingly small amount
         of actually-useful software. This may or may not be due to my focus on competitive programming over creating
         actually-useful software. But fear not! I have created/contributed towards some fun stuff like
-        <a style="color: #01579B !important;text-decoration: none;" href="https://dolphingarlic.github.io/Apertium-Global-PairViewer">the Apertium Global PairViewer</a> and
-        <a style="color: #01579B !important;text-decoration: none;" href="https://dolphingarlic.github.io/slinky_snake">whatever this is</a>.
+        <a style="color: #409de6 !important;text-decoration: none;" href="https://dolphingarlic.github.io/Apertium-Global-PairViewer">the Apertium Global PairViewer</a> and
+        <a style="color: #409de6 !important;text-decoration: none;" href="https://dolphingarlic.github.io/slinky_snake">whatever this is</a>.
     </p>
     <p>
         Unfortunately (or fortunately, depending on how much you despise my writing), I do not have a blog (yet),

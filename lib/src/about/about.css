@@ -1,7 +1,7 @@
 #about {
     min-height: 90vh;
     padding: 5vh 5vw;
-    color: #54c5f8;
+    color: #035579;
     font-size: 20px;
     display: block;
     position: relative;
@@ -52,7 +52,7 @@ img {
     object-fit: cover;
 }
 svg {
-    fill: #54c5f8;
+    fill: #035579;
     width: 40px;
     height: 40px;
 }
