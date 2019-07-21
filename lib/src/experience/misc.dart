@@ -34,7 +34,7 @@ final List<Achievement> misc = [
     1
   ),
   Achievement(
-    'Got a PhD in Segwaing',
+    'Got a PhD in Segway Appreciation',
     'June 2019',
     'Electric Tour Company - San Francisco',
     '''
