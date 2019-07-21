@@ -6,33 +6,38 @@ final List<Achievement> music = [
     'Sept 2017',
     'Atterbury National Piano Competition',
     '''
-    <p>Stuff about Atterbury idk</p>
+    <p>Self-explanatory</p>
     ''',
-    3),
+    3
+  ),
   Achievement(
     'Roedean Music Competition 2019 Woodwind Section Runner-up',
     'June 2019',
     'Roedean Music Competition',
     '''
-    <p>Stuff about Roedean I guess</p>
+    <p>Runner-up for the 2019 Roedean Music Competition</p>
+    <p>I played clarinet (Saint-Saens Clarinet Sonata 4th Movement) in this competition</p>
     ''',
-    3),
+    3
+  ),
   Achievement(
     'ABRSM Piano Grade 8 with Distinction',
     'June 2018',
     'The Associated Board of the Royal Schools of Music',
     '''
-    <p>Grade 8 level in Piano - the highest level before the Diploma, Licentiate, and Fellowship.</p>
+    <p>Grade 8 level in Piano - the highest level before the Diploma, Licentiate, and Fellowship</p>
     ''',
-    4),
+    4
+  ),
   Achievement(
     'ABRSM Flute Grade 8 with Distinction',
     'Oct 2018',
     'The Associated Board of the Royal Schools of Music',
     '''
-    <p>Grade 8 level in Flute - the highest level before the Diploma, Licentiate, and Fellowship.</p>
+    <p>Grade 8 level in Flute - the highest level before the Diploma, Licentiate, and Fellowship</p>
     ''',
-    4),
+    4
+  ),
   Achievement(
     'Page-turned for a professional pianist once',
     'Sept 2018',
@@ -43,5 +48,6 @@ final List<Achievement> music = [
     <p>It was a great experience. Fortunately I didn't mess up any turns</p>
     <p>(They played Liszt's Piano sonata in B minor and Bach's Goldberg Variations)</p>
     ''',
-    1),
+    1
+  ),
 ];
