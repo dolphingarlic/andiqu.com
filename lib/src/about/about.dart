@@ -69,7 +69,8 @@ class AboutComponent {
         actually-useful software. But fear not! I have created/contributed towards some fun stuff like
         <a style="color: #409de6 !important;text-decoration: none;" href="https://dolphingarlic.github.io/Apertium-Global-PairViewer">the Apertium Global PairViewer</a> and
         <a style="color: #409de6 !important;text-decoration: none;" href="https://dolphingarlic.github.io/slinky_snake">whatever this is</a>.
-        I also made a <a style="color: #409de6 !important;text-decoration: none;" herf="https://assistant.google.com/services/a/uid/000000acca8b1c5d?hl=en">Google Assistant Action</a>
+        I also made a
+        <a style="color: #409de6 !important;text-decoration: none;" href="https://assistant.google.com/services/a/uid/000000acca8b1c5d?hl=en">Google Assistant Action</a>
     </p>
     <p>
         Unfortunately (or fortunately, depending on how much you despise my writing), I do not have a blog (yet),
