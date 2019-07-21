@@ -47,17 +47,17 @@ class AboutComponent {
     ''');
 
     boring_about = this.sanitizer.bypassSecurityTrustHtml('''
-    <p>Salutations, everyone. Andi here.</p>
+    <p>Salutations, everyone. Andi here</p>
     <p>
         I am a high school student from St John's College, Johannesburg. I started programming in grade 9, and since
         then it has <span style="text-decoration: line-through;">taken over my life</span> become one of my passions
-        and I have participated in quite a few contests since then.
+        and I have participated in quite a few contests since then
     </p>
     <p>
         My interests include playing the piano and clarinet, competitive programming, and olympiad maths.
         Sometimes, I also (try to) contribute to FOSS initiatives like
         <a style="color: #409de6 !important;text-decoration: none;" href="https://www.apertium.org">Apertium</a>,
-        but unfortunately this does not happen very often.
+        but unfortunately this does not happen very often
     </p>
     <p>
         "But Andi", I hear you cry, "where are all the cool things you've coded up? Surely someone as <b>cool</b>
@@ -69,10 +69,11 @@ class AboutComponent {
         actually-useful software. But fear not! I have created/contributed towards some fun stuff like
         <a style="color: #409de6 !important;text-decoration: none;" href="https://dolphingarlic.github.io/Apertium-Global-PairViewer">the Apertium Global PairViewer</a> and
         <a style="color: #409de6 !important;text-decoration: none;" href="https://dolphingarlic.github.io/slinky_snake">whatever this is</a>.
+        I also made a <a style="color: #409de6 !important;text-decoration: none;" herf="https://assistant.google.com/services/a/uid/000000acca8b1c5d?hl=en">Google Assistant Action</a>
     </p>
     <p>
         Unfortunately (or fortunately, depending on how much you despise my writing), I do not have a blog (yet),
-        so you'll have to trust that this website accurately conveys who I am.
+        so you'll have to trust that this website accurately conveys who I am
     </p>
     ''');
   }
