@@ -39,6 +39,15 @@ final List<Achievement> maths = [
     4
   ),
   Achievement(
+    'IMAS 2018 Gold Medal',
+    'June 2018',
+    'International Maths Assessment for Schools',
+    '''
+    <p>Gold medal in the 2018 IMAS competition, grade 8 to 10 category</p>
+    ''',
+    3
+  ),
+  Achievement(
     'Wits Maths Competition 2018 Senior 2nd Place',
     'June 2018',
     'Wits University',
