@@ -26,6 +26,7 @@ class SignatureComponent implements OnInit {
     'Problem Solver',
     'Level 42 Pigeon Enthusiast',
     'Cool Kid™',
+    'Emil + Grocery Store = <3',
   ];
 
   Future sleep() {

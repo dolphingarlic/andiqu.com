@@ -4,10 +4,10 @@
     display: flex;
     flex-flow: row wrap;
     justify-content: center;
-    height: 70px;
     font-size: 14px;
 }
 .page-footer div {
+    padding: 15px 10px;
     margin: auto;
 }
 
