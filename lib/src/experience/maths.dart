@@ -82,7 +82,7 @@ final List<Achievement> maths = [
     <p>Winner of the University of Pretoria Maths Competition, senior division</p>
     ''',
     3
-  )
+  ),
   Achievement(
     'University of Pretoria Maths Competition 2018 Senior 2nd Place',
     'June 2018',
