@@ -21,6 +21,15 @@ final List<Achievement> maths = [
     4
   ),
   Achievement(
+    'SAMO 2019 Senior Runner-up',
+    'Sept 2019',
+    'South Africa',
+    '''
+    <p>South African Maths Olympiad 2019 Senior Section Runner-up (3rd place)</p>
+    ''',
+    4
+  ),
+  Achievement(
     'SAMO 2017 Junior Winner',
     'Sept 2017',
     'South Africa',
@@ -34,7 +43,7 @@ final List<Achievement> maths = [
     'Sept 2016',
     'South Africa',
     '''
-    <p>South African Maths Olympiad 2016 Junior Section Runner-up</p>
+    <p>South African Maths Olympiad 2016 Junior Section Runner-up (10th place)</p>
     ''',
     4
   ),
@@ -48,6 +57,15 @@ final List<Achievement> maths = [
     3
   ),
   Achievement(
+    'Wits Maths Competition 2019 Senior 3rd Place',
+    'June 2019',
+    'Wits University',
+    '''
+    <p>3rd place at the Wits University Maths Competition, senior division</p>
+    ''',
+    3
+  ),
+  Achievement(
     'Wits Maths Competition 2018 Senior 2nd Place',
     'June 2018',
     'Wits University',
@@ -57,9 +75,18 @@ final List<Achievement> maths = [
     3
   ),
   Achievement(
+    'University of Pretoria Maths Competition 2019 Senior Winner',
+    'June 2019',
+    'University of Pretoria',
+    '''
+    <p>Winner of the University of Pretoria Maths Competition, senior division</p>
+    ''',
+    3
+  )
+  Achievement(
     'University of Pretoria Maths Competition 2018 Senior 2nd Place',
     'June 2018',
-    'Wits University',
+    'University of Pretoria',
     '''
     <p>2nd place at the University of Pretoria Maths Competition, senior division</p>
     ''',

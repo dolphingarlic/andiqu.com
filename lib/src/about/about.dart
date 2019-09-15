@@ -68,9 +68,11 @@ class AboutComponent {
         of actually-useful software. This may or may not be due to my focus on competitive programming over creating
         actually-useful software. But fear not! I have created/contributed towards some fun stuff like
         <a style="color: #409de6 !important;text-decoration: none;" href="https://dolphingarlic.github.io/Apertium-Global-PairViewer">the Apertium Global PairViewer</a> and
-        <a style="color: #409de6 !important;text-decoration: none;" href="https://dolphingarlic.github.io/slinky_snake">whatever this is</a>.
+        <a style="color: #409de6 !important;text-decoration: none;" href="https://incredibowl.herokuapp.com">an <i>Incredibowl</i> website</a>.
         I also made a
-        <a style="color: #409de6 !important;text-decoration: none;" href="https://assistant.google.com/services/a/uid/000000acca8b1c5d?hl=en">Google Assistant Action</a>
+        <a style="color: #409de6 !important;text-decoration: none;" href="https://assistant.google.com/services/a/uid/000000acca8b1c5d?hl=en">Google Assistant Action</a>!
+        If you want, check out my
+        <a style="color: #409de6 !important;text-decoration: none;" href="https://dolphingarlic.github.io/useless_websites">list of useless websites I made</a>
     </p>
     <p>
         Unfortunately (or fortunately, depending on how much you despise my writing), I do not have a blog (yet),
