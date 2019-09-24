@@ -2,7 +2,7 @@
 
 set -eux
 
-DART_VER='2.1.0'
+DART_VER='2.2.1-dev.3.0'
 
 curl -o dart.zip https://storage.googleapis.com/dart-archive/channels/stable/release/${DART_VER}/sdk/dartsdk-linux-x64-release.zip
 unzip dart.zip
