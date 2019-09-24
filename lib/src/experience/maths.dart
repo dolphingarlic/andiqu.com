@@ -90,6 +90,6 @@ final List<Achievement> maths = [
     '''
     <p>2nd place at the University of Pretoria Maths Competition, senior division</p>
     ''',
-    3
+    2
   ),
 ];
