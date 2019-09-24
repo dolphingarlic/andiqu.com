@@ -1,0 +1,26 @@
+@import url(https://fonts.googleapis.com/css?family=Roboto);
+@import url(https://fonts.googleapis.com/css?family=Material+Icons);
+
+html, body {
+    margin: 0;
+    padding: 0;
+    font-family: 'Roboto', sans-serif;
+}
+
+.loading {
+    padding: 10px;
+}
+
+hr {
+    width: 50px;
+    border: 2px solid;
+}
+
+::selection {
+    background: #035579; /* WebKit/Blink Browsers */
+    color: white;
+}
+::-moz-selection {
+    background: #035579; /* Gecko Browsers */
+    color: white;
+}
