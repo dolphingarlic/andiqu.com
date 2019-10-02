@@ -21,7 +21,7 @@ class SignatureComponent implements OnInit {
   List<String> signatures = [
     'Andi Qu',
     'Pianist',
-    'I kinda like maths sometimes',
+    'I like maths sometimes',
     'Competitive Programmer',
     'Problem Solver',
     'Level 42 Pigeon Enthusiast',

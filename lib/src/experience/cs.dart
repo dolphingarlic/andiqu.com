@@ -24,6 +24,15 @@ final List<Achievement> cs = [
     5
   ),
   Achievement(
+    'South African Programming Olympiad 2019 Winner',
+    'Sept 2019',
+    'South African Programming Olympiad',
+    '''
+    <p>Winner of the 2019 South African Programming Olympiad</p>
+    ''',
+    5
+  ),
+  Achievement(
     'USACO Platinum Division Competitor',
     'Mar 2019 - Present',
     'USACO',
