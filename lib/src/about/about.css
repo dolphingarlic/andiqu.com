@@ -1,5 +1,5 @@
 #about {
-    min-height: 90vh;
+    /* min-height: 90vh; */
     padding: 5vh 5vw;
     color: #035579;
     font-size: 20px;
@@ -16,7 +16,7 @@
 
 .social-media {
     display: block;
-    margin: 10vh 0 90vh 0;
+    margin: 10vh 0 70vh 0;
     padding-left: 20px;
     float: right;
     list-style: none;
@@ -29,7 +29,7 @@
     display: block;
     overflow: hidden;
     float: left;
-    margin: 10vh 5vw 70vh 0;
+    margin: 10vh 5vw 50vh 0;
     width: 30vw;
     height: 30vw;
     -webkit-border-radius: 50%;
