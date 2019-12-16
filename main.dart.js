@@ -6572,12 +6572,12 @@ r=T.y(l,u,"blockquote")
 n.l(r)
 q=T.y(l,r,"p")
 n.l(q)
-T.a0(q,"Pushing the boundaries of knowledge and possibility is our joyful obsession, and we celebrate fundamental discoveries and practical applications alike")
+T.a0(q,'You can\'t spell "proof by contradiction" without "oof bro"')
 p=T.y(l,r,"footer")
 n.l(p)
 o=T.y(l,p,"cite")
 n.l(o)
-T.a0(o,"MIT website")
+T.a0(o,"Myself")
 n.ar()},
 $av:function(){return[Y.dM]}}
 L.cP.prototype={
