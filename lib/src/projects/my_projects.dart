@@ -2,6 +2,16 @@ import 'project_card.dart';
 
 final List<Project> my_projects = [
   Project(
+    'Polygrade',
+    '''
+    <p>A website that lets the user input their grades and view it as a radar chart</p>
+    <p>Made with Django and d3.js (still a work in progress)</p>
+    ''',
+    'December 2019',
+    'https://polygrade.herokuapp.com/',
+    'polygrade.png'
+  ),
+  Project(
     'Joining Points',
     '''
     <p>The game 'Joining Points' from IOI 2006 - a 1-player game where you try join points of different colours so that no lines intersect</p>
@@ -15,7 +25,7 @@ final List<Project> my_projects = [
     'SACO Editorials',
     '''
     <p>A collection of editorials for the South African Coding Olympiad that are not available elsewhere</p>
-    <p>This will hopefully help others in their preparation for the final round of SACO</p>
+    <p>This will hopefully help others in preparation for the final round of SACO</p>
     ''',
     'October 2019',
     'https://github.com/dolphingarlic/SACO_editorials',
@@ -40,5 +50,15 @@ final List<Project> my_projects = [
     'July 2019',
     'https://assistant.google.com/services/a/uid/000000acca8b1c5d?hl=en&source=web',
     'ac_bot.png'
+  ),
+  Project(
+    'Competitive Programming Solutions',
+    '''
+    <p>Just a repo with all my solutions to informatics olympiad problems that I've solved over the years</p>
+    <p>99% C++ with a bit of Python sprinkled in</p>
+    ''',
+    'January 2019',
+    'https://github.com/dolphingarlic/CompetitiveProgramming',
+    'github.png'
   ),
 ];
