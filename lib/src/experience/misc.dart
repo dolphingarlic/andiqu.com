@@ -2,13 +2,25 @@ import 'achievement.dart';
 
 final List<Achievement> misc = [
   Achievement(
+    'St John\'s Prefect',
+    'Jan 2020 - Present',
+    'St John\'s College',
+    '''
+    <p>I am a prefect at St John's College</p>
+    <p>This means I collaborate with both staff and students to
+    make sure the school runs smoothly. Specifically, I am in
+    charge of the cultural and academic aspects of my house</p>
+    ''',
+    4
+  ),
+  Achievement(
     'St John\'s College Debating Colours',
     'May 2019',
     'St John\'s College',
     '''
     <p>I am part of the St John's College debating team</p>
     ''',
-    2
+    3
   ),
   Achievement(
     'Caught Pigeons with my Bare Hands',

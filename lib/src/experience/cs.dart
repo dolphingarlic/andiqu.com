@@ -42,20 +42,20 @@ final List<Achievement> cs = [
     4
   ),
   Achievement(
-    'APIO 2019 Bronze Medallist',
+    'APIO 2019 Bronze Medal',
     'May 2019',
     'APIO',
     '''
-    <p>Bronze medallist in the 2019 Asian Pacific Informatics Olympiad</p>
+    <p>Bronze medal in the 2019 Asian Pacific Informatics Olympiad</p>
     ''',
     4
   ),
   Achievement(
-    'SACO 2018 Bronze Medallist',
+    'SACO 2018 Bronze Medal',
     'Sept 2018',
     'SACO',
     '''
-    <p>Bronze medallist in the 2018 South African Programming Olympiad</p>
+    <p>Bronze medal in the 2018 South African Programming Olympiad</p>
     ''',
     3
   ),
