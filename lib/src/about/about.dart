@@ -93,8 +93,8 @@ class AboutComponent {
         <a style="color: #409de6 !important;text-decoration: none;" href="https://dolphingarlic.github.io/useless_websites">list of useless websites I made</a>.
     </p>
     <p>
-        Unfortunately (or fortunately, depending on how much you despise my writing), I do not have a blog (yet),
-        so you'll have to trust that this website accurately conveys who I am.
+        Look! Up in the sky! It's a bird! It's a plane! It's <b>Andi's all-new (semi-functioning) blog</b>, ready to blow your mind!
+        Check it out at <a style="color: #409de6 !important;text-decoration: none;" href="http://bits-and-bytes.me/">bits-and-bytes.me</a>
     </p>
     ''');
   }
