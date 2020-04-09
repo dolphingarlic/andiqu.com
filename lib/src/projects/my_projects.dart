@@ -61,4 +61,14 @@ final List<Project> my_projects = [
     'https://github.com/dolphingarlic/CompetitiveProgramming',
     'github.png'
   ),
+  Project(
+    'APIOIPA',
+    '''
+    <p><b>API</b> for <b>O</b>lympiad <b>I</b>nformatics <b>P</b>roblems <b>A</b>ssorted</p>
+    <p>I used this API to build stuff like a problem-of-the-day Discord bot and other cool things<p>
+    ''',
+    'April 2020',
+    'https://apioipa.herokuapp.com',
+    'apioipa.png'
+  ),
 ];
