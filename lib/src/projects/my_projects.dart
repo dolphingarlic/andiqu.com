@@ -45,14 +45,14 @@ final List<Project> my_projects = [
     'Accomplice in Coding',
     '''
     <p>A Google Assistant action that gives you random problems from informatics olympiads</p>
-    <p>Made with Django and Dialogflow, with help from ko_osaga's OI checklist</p>
+    <p>Made with APIOIPA, Django and Dialogflow</p>
     ''',
     'July 2019',
     'https://assistant.google.com/services/a/uid/000000acca8b1c5d?hl=en&source=web',
     'ac_bot.png'
   ),
   Project(
-    'Competitive Programming Solutions',
+    'Competitive Programming',
     '''
     <p>Just a repo with all my solutions to informatics olympiad problems that I've solved over the years</p>
     <p>99% C++ with a bit of Python sprinkled in</p>
