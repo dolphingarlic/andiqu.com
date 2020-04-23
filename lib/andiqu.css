@@ -15,7 +15,8 @@ a {
     color: white;
     text-decoration: none;
 }
-a:hover, a:active {
+a:hover,
+a:active {
     color: lightblue;
     text-decoration: none;
 }

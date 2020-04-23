@@ -7,7 +7,7 @@
         <div class="column" *ngFor="let project of projects">
             <div class="card">
                 <div class="card-image">
-                    <img src="projects/{{project.image_url}}">
+                    <img src="projects/{{project.image_url}}" alt="Image of {{project.name}}">
                 </div>
                 <div class="card-body">
                     <a href="{{project.url}}">

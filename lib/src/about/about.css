@@ -29,7 +29,7 @@
     display: block;
     overflow: hidden;
     float: left;
-    margin: 10vh 5vw 50vh 0;
+    margin: 10vh 5vw calc(90vh - 30vw) 0;
     width: 30vw;
     height: 30vw;
     -webkit-border-radius: 50%;
@@ -55,6 +55,20 @@ svg {
     fill: #035579;
     width: 40px;
     height: 40px;
+}
+
+.screen-reader-text {
+    position: absolute !important;
+    display: block;
+    visibility: visible;
+    overflow: hidden;
+    width: 1px;
+    height: 1px;
+    margin: -1px;
+    border: 0;
+    padding: 0;
+    clip: rect(0px, 0px, 0px, 0px); /* deprecated */
+    clip-path: polygon(0px 0px, 0px 0px, 0px 0px, 0px 0px);
 }
 
 @media only screen and (max-width: 1000px) {
