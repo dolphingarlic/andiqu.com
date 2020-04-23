@@ -19,12 +19,12 @@ final List<Achievement> cs = [
     competition where high-schoolers get to contribute to various open-source
     organizations by completing tasks</p>
     <p>My organization was Apertium - a rule-based machine translation platform
-    that specialises in under-documented languages</p>
+    that specialises in under-resourced languages</p>
     ''',
     5
   ),
   Achievement(
-    'South African Programming Olympiad 2019 Winner',
+    'SACO 2019 Winner',
     'Sept 2019',
     'South African Programming Olympiad',
     '''

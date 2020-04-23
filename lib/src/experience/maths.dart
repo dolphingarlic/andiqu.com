@@ -2,7 +2,7 @@ import 'achievement.dart';
 
 final List<Achievement> maths = [
   Achievement(
-    'IMO 2019 Participant',
+    'IMO 2019 Honourable Mention',
     'July 2019',
     'South Africa',
     '''
@@ -16,7 +16,7 @@ final List<Achievement> maths = [
     'April 2019',
     'South Africa',
     '''
-    <p>Silver medal (6th place overall) at the 2019 Pan African Mathematics Olympiad</p>
+    <p>Silver medal (6th place overall) at the 2019 Pan-African Mathematics Olympiad</p>
     ''',
     4
   ),
