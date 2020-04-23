@@ -10,4 +10,4 @@ unzip dart.zip
 PUB=./dart-sdk/bin/pub
 ${PUB} global activate webdev
 ${PUB} get .
-${PUB} global run webdev build --output=web:build --fast-startup --minify --trust-primitives --trust-type-annotations
+${PUB} global run webdev build --output=web:build

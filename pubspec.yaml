@@ -17,3 +17,7 @@ dev_dependencies:
   build_test: ^0.10.2
   build_web_compilers: '>=1.2.0 <3.0.0'
   test: ^1.0.0
+
+transformers:
+- $dart2js:
+    commandLineOptions: [--trust-type-annotations, --trust-primitives, --fast-startup]
