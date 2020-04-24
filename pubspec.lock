@@ -449,6 +449,13 @@ packages:
       url: "https://pub.dartlang.org"
     source: hosted
     version: "0.1.5"
+  pwa:
+    dependency: "direct main"
+    description:
+      name: pwa
+      url: "https://pub.dartlang.org"
+    source: hosted
+    version: "0.1.12"
   quiver:
     dependency: transitive
     description:
@@ -477,6 +484,13 @@ packages:
       url: "https://pub.dartlang.org"
     source: hosted
     version: "0.0.4+1"
+  service_worker:
+    dependency: transitive
+    description:
+      name: service_worker
+      url: "https://pub.dartlang.org"
+    source: hosted
+    version: "0.2.4"
   shelf:
     dependency: transitive
     description:
