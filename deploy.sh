@@ -10,7 +10,7 @@ unzip dart.zip
 PUB=./dart-sdk/bin/pub
 ${PUB} global activate webdev
 ${PUB} get .
-webdev build
+${PUB} global run webdev build
 ${PUB} run pwa
-webdev build
+${PUB} global run webdev build
 find build -type f -name "*.js.map" -exec rm {} +
