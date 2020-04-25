@@ -3,7 +3,7 @@
   "short_name": "andiqu",
   "description": "Andi Qu - The Website",
   "lang": "en-US",
-  "start_url": "https://www.andiqu.com",
+  "start_url": "/",
   "scope": "/",
   "display": "standalone",
   "orientation": "any",
