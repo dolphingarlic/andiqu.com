@@ -3,19 +3,20 @@
         <h1 class="section-heading">MY PROJECTS</h1>
     </div>
 
-    <div class="list">
-        <div class="column" *ngFor="let project of projects">
-            <div class="card">
-                <div class="card-image">
-                    <img src="projects/{{project.image_url}}" alt="Image of {{project.name}}">
-                </div>
-                <div class="card-body">
-                    <a href="{{project.url}}">
-                        <h2>{{project.name}}</h2>
-                    </a>
-                    <h3 class="date">{{project.date}}</h3>
-                    <div [innerHTML]="project.description"></div>
-                </div>
+    <div class="cardlist">
+        <div class="card" *ngFor="let project of projects">
+            <div class="card-image">
+                <img
+                    src="projects/{{project.image_url}}"
+                    alt="Image of {{project.name}}"
+                />
+            </div>
+            <div class="card-body">
+                <a href="{{project.url}}">
+                    <h2>{{project.name}}</h2>
+                </a>
+                <h3 class="date">{{project.date}}</h3>
+                <div [innerHTML]="project.description"></div>
             </div>
         </div>
     </div>

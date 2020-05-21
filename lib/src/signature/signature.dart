@@ -5,7 +5,7 @@ import 'dart:math';
 import 'package:angular/angular.dart';
 
 const _pulse = const Duration(milliseconds: 40);
-const _pause = const Duration(milliseconds: 250);
+const _pause = const Duration(milliseconds: 500);
 
 @Component(
   selector: 'signature-component',
@@ -27,10 +27,11 @@ class SignatureComponent implements OnInit {
     'Level 42 Pigeon Enthusiast',
     'Cool Kid™',
     'Emil + Grocery Store = <3',
+    'https://youtu.be/AC8nYkHh1vE',
   ];
 
   Future sleep() {
-    return new Future.delayed(_pause, () => "1");
+    return new Future.delayed(_pause, () => '1');
   }
 
   void type() async {
@@ -54,8 +55,10 @@ class SignatureComponent implements OnInit {
   }
 
   void updateSticky() {
-    Element introduction = querySelector('#introduction'), signature = querySelector('signature-component');
-    signature.style.top = '${min(0, introduction.clientHeight - signature.clientHeight - window.pageYOffset)}px';
+    Element introduction = querySelector('#introduction'),
+        signature = querySelector('signature-component');
+    signature.style.top =
+        '${min(0, introduction.clientHeight - signature.clientHeight - window.pageYOffset)}px';
   }
 
   @override

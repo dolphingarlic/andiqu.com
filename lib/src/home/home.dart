@@ -5,5 +5,4 @@ import 'package:angular/angular.dart';
   templateUrl: 'home.html',
   styleUrls: ['home.css'],
 )
-class HomeComponent {
-}
+class HomeComponent {}

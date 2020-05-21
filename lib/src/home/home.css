@@ -63,7 +63,8 @@ cite {
         max-width: 70vw;
         font-size: 25px;
     }
-    blockquote:after, blockquote:before {
+    blockquote:after,
+    blockquote:before {
         font-size: 55px;
     }
     cite {
