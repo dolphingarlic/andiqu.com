@@ -13,8 +13,8 @@
     font-size: 65px;
 }
 
-.mono {
-    font-family: monospace;
+.vex-canvas {
+    width: 100%;
 }
 
 blockquote {
@@ -50,7 +50,7 @@ cite {
     font-size: 15px;
 }
 
-@media only screen and (max-width: 600px) {
+@media only screen and (max-width: 810px) {
     #home {
         padding: 10vh 5vw;
         font-size: 18px;

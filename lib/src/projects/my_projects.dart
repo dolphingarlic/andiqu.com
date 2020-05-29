@@ -2,6 +2,14 @@ import 'project_card.dart';
 
 final List<Project> my_projects = [
   Project(
+      'Five Streak',
+      '''
+    <p>A website where you try to keep a streak to help prevent the spread of COVID-19.</p>
+    ''',
+      'May 2020',
+      'https://www.five-streak.com',
+      'five-streak.png'),
+  Project(
       'Git the lines',
       '''
     <p>A Discord bot that prints out the lines referenced in a GitHub or GitLab snippet link</p>
