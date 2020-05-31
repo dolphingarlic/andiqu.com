@@ -1,17 +1,24 @@
 {
-  "name": "andiqu",
-  "short_name": "andiqu",
-  "description": "Andi Qu - The Website",
-  "lang": "en-US",
-  "start_url": "/",
-  "scope": "/",
-  "display": "standalone",
-  "orientation": "any",
-  "theme_color": "#54c5f8",
-  "background_color": "#e0f1ff",
-  "icons": [{
-    "src": "favicon.ico",
-    "sizes": "200x201",
-    "type": "image/png"
-  }]
+    "name": "andiqu",
+    "short_name": "andiqu",
+    "description": "Andi Qu - The Website",
+    "lang": "en-US",
+    "start_url": "/",
+    "scope": "/",
+    "display": "standalone",
+    "orientation": "any",
+    "theme_color": "#54c5f8",
+    "background_color": "#e0f1ff",
+    "icons": [
+        {
+            "src": "icon-large.png",
+            "sizes": "512x512",
+            "type": "image/png"
+        },
+        {
+            "src": "icon-small.png",
+            "sizes": "200x201",
+            "type": "image/png"
+        }
+    ]
 }
