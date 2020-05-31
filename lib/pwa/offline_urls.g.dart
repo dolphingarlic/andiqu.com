@@ -2,8 +2,10 @@
 final List<String> offlineUrls = [
   './',
   './.build.manifest',
+  './.dart_tool/package_config.json',
   './.packages',
   './face.png',
+  './favicon.ico',
   './favicon.png',
   './loadcat.gif',
   './logos/codeforces.svg',
@@ -12,13 +14,7 @@ final List<String> offlineUrls = [
   './logos/linkedin.svg',
   './main.dart.js',
   './manifest.json',
-  './packages/\$sdk/_internal/ddc_sdk.sum',
   './packages/\$sdk/_internal/strong.sum',
-  './packages/\$sdk/dev_compiler/amd/dart_sdk.js',
-  './packages/\$sdk/dev_compiler/amd/require.js',
-  './packages/\$sdk/dev_compiler/common/dart_sdk.js',
-  './packages/\$sdk/dev_compiler/common/run.js',
-  './packages/\$sdk/dev_compiler/es6/dart_sdk.js',
   './packages/\$sdk/dev_compiler/kernel/amd/dart_sdk.js',
   './packages/\$sdk/dev_compiler/kernel/amd/require.js',
   './packages/\$sdk/dev_compiler/kernel/common/dart_sdk.js',
@@ -286,15 +282,20 @@ final List<String> offlineUrls = [
   './packages/pedantic/analysis_options.1.6.0.yaml',
   './packages/pedantic/analysis_options.1.7.0.yaml',
   './packages/pedantic/analysis_options.1.8.0.yaml',
+  './packages/pedantic/analysis_options.1.9.0.yaml',
   './packages/pedantic/analysis_options.yaml',
   './projects/ac_bot.png',
   './projects/apioipa.png',
+  './projects/five-streak.png',
+  './projects/git-the-lines.png',
   './projects/github.png',
   './projects/incredibowl.png',
   './projects/joining_points.png',
+  './projects/po-i-td.png',
   './projects/polygrade.png',
   './styles.css',
+  './zelda.mp3',
 ];
 
 /// Last modified timestamp of the files
-final String lastModified = '2020-04-24T19:38:41.197Z';
+final String lastModified = '2020-05-31T13:57:28.816Z';
