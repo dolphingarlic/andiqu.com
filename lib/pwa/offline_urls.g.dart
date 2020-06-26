@@ -1,10 +1,10 @@
 /// URLs for offline cache.
 final List<String> offlineUrls = [
+  './',
   './face.png',
   './favicon.ico',
   './icon-large.png',
   './icon-small.png',
-  './loadcat.gif',
   './logos/codeforces.svg',
   './logos/email.svg',
   './logos/github.svg',
@@ -20,9 +20,10 @@ final List<String> offlineUrls = [
   './projects/joining_points.png',
   './projects/po-i-td.png',
   './projects/polygrade.png',
+  './projects/st0nks.png',
+  './robots.txt',
   './styles.css',
-  './zelda.mp3',
 ];
 
 /// Last modified timestamp of the files
-final String lastModified = '2020-05-31T14:17:27.228Z';
+final String lastModified = '2020-06-26T16:08:16.458Z';
