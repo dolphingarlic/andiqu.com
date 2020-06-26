@@ -56,7 +56,7 @@ class AboutComponent {
     boring_about = this.sanitizer.bypassSecurityTrustHtml('''
     <p>Hi, everyone! Andi here</p>
     <p>
-        I am a high school student from St John's College, Johannesburg. I started programming in grade 9, and since
+        I am a matric student at St John's College, Johannesburg. I started programming in grade 9, and since
         then it has <span style="text-decoration: line-through;">taken over my life</span> become one of my greatest passions.
     </p>
     <p>
@@ -66,19 +66,21 @@ class AboutComponent {
         I also enjoy participating in and mentoring for open-source competitions such as Hacktoberfest, the Google Code-In, and the Google Summer of Code.
     </p>
     <p>
-        "But Andi", I hear you cry, "where are all the cool things you've coded up? Surely someone as <b>cool</b>
-        and <b>awesome</b> as you would have at least 2 world-changing projects?"
+        Possibly my favourite hobby is problem-solving - I spend a lot of my time solving algorithmic
+        problems from various Olympiads such as the Baltic Olympiad in Informatics and the International
+        Olympiad in Informatics. You can find all my code for these problems
+        <a style="color: #409de6 !important;text-decoration: none;" href="https://github.com/dolphingarlic/CompetitiveProgramming">in my GitHub repo</a>.
     </p>
     <p>
-        To that, I say: Unfortunately, it is true that I have created a surprisingly small amount
-        of actually-useful software. This may or may not be due to my focus on competitive programming. But fear not!
-        I have created/contributed towards some fun stuff like
-        <a style="color: #409de6 !important;text-decoration: none;" href="https://dolphingarlic.github.io/Apertium-Global-PairViewer">the Apertium Global PairViewer</a> and
-        <a style="color: #409de6 !important;text-decoration: none;" href="https://incredibowl.herokuapp.com">an <i>Incredibowl</i> website</a>.
+        I also really enjoy making fun and quirky (but also kinda useless) websites. Check out
+        <a style="color: #409de6 !important;text-decoration: none;" href="https://st0nks.ml/">St0nks.ml</a> and
+        <a style="color: #409de6 !important;text-decoration: none;" href="https://bits-and-bytes.me/pickup-verses/">Pickup Verses</a>
+        for some of my recent work. Feel free to suggest ideas to me - the crazier and more fun the idea,
+        the more likely it'll be made! (But no, I won't hack your washing machine for you.)
     </p>
     <p>
         I now have a (semi-functional) blog!
-        <a style="color: #409de6 !important;text-decoration: none;" href="http://bits-and-bytes.me/">Check it out here</a>!
+        <a style="color: #409de6 !important;text-decoration: none;" href="https://bits-and-bytes.me/">Check it out here</a>!
     </p>
     ''');
   }

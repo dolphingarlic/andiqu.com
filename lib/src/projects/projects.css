@@ -7,8 +7,14 @@
 }
 
 .section-heading {
+    margin: 0;
     font-size: 40px;
     color: white;
+}
+
+hr {
+    color: white;
+    margin-bottom: 1rem;
 }
 
 .cardlist {
@@ -18,9 +24,9 @@
 }
 
 .card {
-    flex: 0 1 calc(25% - 1em);
-    width: calc(25% - 1em);
-    margin-bottom: 1em;
+    flex: 0 1 calc(25% - 1rem);
+    width: calc(25% - 1rem);
+    margin-bottom: 1rem;
     box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
     text-align: center;
     background-color: #f1f1f1;
@@ -30,7 +36,7 @@
 .card-image {
     background-color: white;
     display: block;
-    height: 16rem;
+    height: 13rem;
     border-radius: 5px 5px 0 0;
     margin: 0 auto;
     overflow: hidden;
@@ -52,19 +58,19 @@
 
 @media screen and (max-width: 1000px) {
     .card {
-        width: calc(50% - 1em);
-        flex: 0 1 calc(50% - 1em);
+        width: calc(50% - 1rem);
+        flex: 0 1 calc(50% - 1rem);
     }
     .card-image {
-        height: 14rem;
+        height: 10rem;
     }
 }
 @media screen and (max-width: 500px) {
     .card {
-        width: calc(100% - 1em);
-        flex: 0 1 calc(100% - 1em);
+        width: calc(100% - 1rem);
+        flex: 0 1 calc(100% - 1rem);
     }
     .card-image {
-        height: 12rem;
+        height: 0;
     }
 }

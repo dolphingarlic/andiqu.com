@@ -23,7 +23,8 @@ blockquote {
     padding: 0.35em 40px;
     max-width: 40vw;
     position: relative;
-    font-size: 30px;
+    /* font-size: 30px; */
+    font-size: 25px;
 }
 
 blockquote:before {
@@ -61,7 +62,8 @@ cite {
     }
     blockquote {
         max-width: 70vw;
-        font-size: 25px;
+        /* font-size: 25px; */
+        font-size: 20px;
     }
     blockquote:after,
     blockquote:before {
