@@ -57,7 +57,7 @@ class AboutComponent {
     <p>Hi, everyone! Andi here</p>
     <p>
         I am a matric student at St John's College, Johannesburg. I started programming in grade 9, and since
-        then it has <span style="text-decoration: line-through;">taken over my life</span> become one of my greatest passions.
+        then it has become one of my greatest passions.
     </p>
     <p>
         My interests include playing the piano and clarinet, competitive programming, and maths.

@@ -17,14 +17,24 @@
     width: 100%;
 }
 
+a {
+    color: white;
+    text-decoration: none;
+}
+
+a:hover,
+a:active {
+    color: lightblue;
+    text-decoration: none;
+}
+
 blockquote {
     font-style: italic;
     margin: auto;
     padding: 0.35em 40px;
     max-width: 40vw;
     position: relative;
-    /* font-size: 30px; */
-    font-size: 25px;
+    font-size: 30px;
 }
 
 blockquote:before {
@@ -35,6 +45,7 @@ blockquote:before {
     top: 7px;
     position: absolute;
 }
+
 blockquote:after {
     display: block;
     content: "\201E";
@@ -47,6 +58,7 @@ blockquote:after {
 blockquote cite:before {
     content: "\2014 \2009";
 }
+
 cite {
     font-size: 15px;
 }
@@ -57,18 +69,22 @@ cite {
         font-size: 18px;
         height: 100vh;
     }
+
     .section-heading {
         font-size: 40px;
     }
+
     blockquote {
         max-width: 70vw;
         /* font-size: 25px; */
         font-size: 20px;
     }
+
     blockquote:after,
     blockquote:before {
         font-size: 55px;
     }
+
     cite {
         font-size: 13px;
     }
