@@ -31,10 +31,15 @@ a:active {
 blockquote {
     font-style: italic;
     margin: auto;
+    display: inline-block;
     padding: 0.35em 40px;
     max-width: 40vw;
     position: relative;
     font-size: 30px;
+}
+
+blockquote p {
+    display: inline-block;
 }
 
 blockquote:before {
@@ -60,7 +65,7 @@ blockquote cite:before {
 }
 
 cite {
-    font-size: 15px;
+    font-size: 18px;
 }
 
 @media only screen and (max-width: 810px) {
@@ -76,8 +81,7 @@ cite {
 
     blockquote {
         max-width: 70vw;
-        /* font-size: 25px; */
-        font-size: 20px;
+        font-size: 25px;
     }
 
     blockquote:after,
@@ -86,6 +90,6 @@ cite {
     }
 
     cite {
-        font-size: 13px;
+        font-size: 15px;
     }
 }
