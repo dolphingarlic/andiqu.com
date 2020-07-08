@@ -1,5 +1,6 @@
 #about {
     padding: 10vh 5%;
+    min-height: 80vh;
     color: #035579;
     font-size: 20px;
     display: flex;
