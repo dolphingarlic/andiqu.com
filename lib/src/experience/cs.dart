@@ -24,7 +24,7 @@ final List<Achievement> cs = [
   Achievement(
       'SACO 2019 Winner',
       'Sept 2019',
-      'South Africa',
+      'Cape Town, South Africa',
       '''
       <p>Winner of the 2019 South African Programming Olympiad</p>
       ''',
@@ -48,7 +48,7 @@ final List<Achievement> cs = [
   Achievement(
       'SACO 2018 Bronze Medal',
       'Sept 2018',
-      'South Africa',
+      'Johannesburg, South Africa',
       '''
       <p>Bronze medal in the 2018 South African Programming Olympiad</p>
       ''',
