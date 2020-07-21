@@ -2,6 +2,16 @@ import 'achievement.dart';
 
 final List<Achievement> maths = [
   Achievement(
+      'CMC 2020 Bronze Medal',
+      'July 2020',
+      'Cyberspace Mathematics Competition',
+      '''
+      <p>Bronze medal (33 out of 56) in the 2020 international Cyberspace Mathematics Competition</p>
+      <p>As a bonus, I came first out of all African contestants</p>
+      ''',
+      5
+  ),
+  Achievement(
       'IMO 2019 Honourable Mention',
       'July 2019',
       'Bath, United Kingdom',

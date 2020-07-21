@@ -38,11 +38,11 @@ final List<Achievement> cs = [
       ''',
       4),
   Achievement(
-      'APIO 2019 Bronze Medal',
+      'APIO 2019 Bronze Medal (Unofficial)',
       'May 2019',
       'St Petersburg, Russian Federation',
       '''
-      <p>Bronze medal in the 2019 Asian Pacific Informatics Olympiad</p>
+      <p>Bronze medal in the 2019 Asian Pacific Informatics Olympiad open contest</p>
       ''',
       4),
   Achievement(

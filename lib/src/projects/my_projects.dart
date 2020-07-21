@@ -2,6 +2,13 @@ import 'project_card.dart';
 
 final List<Project> my_projects = [
   Project(
+    'Country Roles',
+    'A Discord bot that manages country roles in a server',
+    'July 2020',
+    'https://github.com/dolphingarlic/country-roles',
+    'github.png'
+  ),
+  Project(
     'Tom StaglAIno',
     'A Discord bot that impersonates Tom Stagliano using GPT-2',
     'July 2020',
