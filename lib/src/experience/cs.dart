@@ -30,6 +30,14 @@ final List<Achievement> cs = [
       ''',
       5),
   Achievement(
+      'BOI 2020 Gold Medal (Unofficial)',
+      'July 2020',
+      'Ventspils, Latvia',
+      '''
+      <p>Gold medal (293/600) in the 2020 Baltic Olympiad in Informatics online mirror</p>
+      ''',
+      4),
+  Achievement(
       'USACO Platinum Division Competitor',
       'Mar 2019 - Present',
       'USA',
@@ -42,7 +50,7 @@ final List<Achievement> cs = [
       'May 2019',
       'St Petersburg, Russian Federation',
       '''
-      <p>Bronze medal in the 2019 Asian Pacific Informatics Olympiad open contest</p>
+      <p>Bronze medal (189/300) in the 2019 Asian Pacific Informatics Olympiad open contest</p>
       ''',
       4),
   Achievement(
