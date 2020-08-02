@@ -38,11 +38,7 @@ blockquote {
     padding: 0.35em 40px;
     max-width: 40vw;
     position: relative;
-    font-size: 30px;
-}
-
-blockquote p {
-    display: inline-block;
+    font-size: 35px;
 }
 
 blockquote:before {
@@ -57,7 +53,7 @@ blockquote:before {
 blockquote:after {
     display: block;
     content: "\201E";
-    font-size: 80px;
+    font-size: 70px;
     right: 23px;
     bottom: 23px;
     position: absolute;
@@ -84,7 +80,7 @@ cite {
 
     blockquote {
         max-width: 70vw;
-        font-size: 25px;
+        font-size: 28px;
     }
 
     blockquote:after,

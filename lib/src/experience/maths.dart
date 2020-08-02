@@ -6,8 +6,8 @@ final List<Achievement> maths = [
       'July 2020',
       'Cyberspace Mathematics Competition',
       '''
-      <p>Bronze medal (33 out of 56) in the 2020 international Cyberspace Mathematics Competition</p>
-      <p>As a bonus, I came first out of all African contestants</p>
+      <p>Bronze medal (scored 33/56) in the 2020 international Cyberspace Mathematics Competition</p>
+      <p>As a bonus, I came first out of all African contestants :D</p>
       ''',
       5
   ),
