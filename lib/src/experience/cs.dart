@@ -36,7 +36,7 @@ final List<Achievement> cs = [
       '''
       <p>(Would have been a) gold medal (scored 293/600) in the 2020 Baltic Olympiad in Informatics online mirror</p>
       ''',
-      4),
+      2),
   Achievement(
       'USACO Platinum Division Competitor',
       'Mar 2019 - Present',
@@ -52,7 +52,7 @@ final List<Achievement> cs = [
       '''
       <p>Bronze medal (scored 189/300) in the 2019 Asian Pacific Informatics Olympiad open contest</p>
       ''',
-      4),
+      2),
   Achievement(
       'SACO 2018 Bronze Medal',
       'Sept 2018',
