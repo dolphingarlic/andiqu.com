@@ -30,13 +30,14 @@ final List<Achievement> cs = [
       ''',
       5),
   Achievement(
-      'BOI 2020 Gold Medal (Unofficial)',
-      'July 2020',
-      'Ventspils, Latvia',
+      'PAIO 2020 Winner',
+      'Aug 2020',
+      'Pan-African Informatics Olympiad',
       '''
-      <p>(Would have been a) gold medal (scored 293/600) in the 2020 Baltic Olympiad in Informatics online mirror</p>
+      <p>Winner of the first Pan-African Informatics Olympiad, held by Morocco. The three competing countries were South Africa, Morocco, and Tunisia</p>
+      <p>I was able to solve all the problems in exactly an hour</p>
       ''',
-      2),
+      4),
   Achievement(
       'USACO Platinum Division Competitor',
       'Mar 2019 - Present',
@@ -45,14 +46,6 @@ final List<Achievement> cs = [
       <p>Platinum division competitor in the USA Computing Olympiad</p>
       ''',
       4),
-  Achievement(
-      'APIO 2019 Bronze Medal (Unofficial)',
-      'May 2019',
-      'St Petersburg, Russian Federation',
-      '''
-      <p>Bronze medal (scored 189/300) in the 2019 Asian Pacific Informatics Olympiad open contest</p>
-      ''',
-      2),
   Achievement(
       'SACO 2018 Bronze Medal',
       'Sept 2018',

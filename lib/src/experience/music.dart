@@ -5,19 +5,17 @@ final List<Achievement> music = [
       'Atterbury National Piano Competition 2017 U16 Semifinalist',
       'Sept 2017',
       'Atterbury Theatre',
-      '''
-      <p>Self-explanatory</p>
-      ''',
+      '',
       3),
   Achievement(
       'Roedean Music Competition 2019 Woodwind Section Runner-up',
       'June 2019',
       'Roedean School',
       '''
-      <p>Runner-up for the 2019 Roedean Music Competition</p>
-      <p>I played clarinet (Saint-Saens Clarinet Sonata 4th Movement) in this competition</p>
+      <p>Runner-up in the 2019 Roedean Music Competition</p>
+      <p>I played clarinet (Saint-Saens Clarinet Sonata, 4th Movement)</p>
       ''',
-      3),
+      4),
   Achievement(
       'ABRSM Piano Grade 8 with Distinction',
       'June 2018',

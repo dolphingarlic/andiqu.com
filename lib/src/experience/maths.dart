@@ -9,8 +9,7 @@ final List<Achievement> maths = [
       <p>Bronze medal (scored 33/56) in the 2020 international Cyberspace Mathematics Competition</p>
       <p>As a bonus, I came first out of all African contestants :D</p>
       ''',
-      5
-  ),
+      5),
   Achievement(
       'IMO 2019 Honourable Mention',
       'July 2019',

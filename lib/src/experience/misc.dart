@@ -5,7 +5,7 @@ final List<Achievement> misc = [
       'South African English Olympiad 2020 Top 10',
       'Mar 2020',
       'Grahamstown, South Africa',
-      '''<p>Top 10 (diamond certificate) in the 2020 De Beers English Olympiad</p>''',
+      '''<p>Top 10 in the 2020 De Beers English Olympiad</p>''',
       5),
   Achievement(
       'St John\'s Prefect',
