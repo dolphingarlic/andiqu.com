@@ -6,7 +6,7 @@ final List<Project> my_projects = [
     'A free collection of curated, high-quality resources to take you from Bronze to Platinum and beyond.',
     'August 2020',
     'https://usaco.guide',
-    'https://usaco.guide/static/91834c807a2f5a2dd00f33669ac7045c/e27f1/logo.png'
+    'usaco-guide.png'
   ),
   Project(
     'Country Roles',
