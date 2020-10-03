@@ -27,7 +27,7 @@ class SignatureComponent implements OnInit {
     'Level 42 Pigeon Enthusiast',
     'Cool Kid™',
     'Emil + Grocery Store = <3',
-    'https://youtu.be/AC8nYkHh1vE',
+    '⚠️ JavaScript-free zone ⚠️',
   ];
 
   Future sleep() {
