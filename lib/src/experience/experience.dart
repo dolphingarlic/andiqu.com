@@ -19,9 +19,9 @@ import 'misc.dart';
 class ExperienceComponent {
   int value = 0;
   final List<String> details = [
-    'Most important stuff',
-    'More important stuff',
-    'Default',
+    'Most important (Default)',
+    'Important',
+    'Detailed',
     'More detailed',
     'Unnecessarily detailed',
   ];
