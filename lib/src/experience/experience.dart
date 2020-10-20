@@ -17,7 +17,7 @@ import 'misc.dart';
   styleUrls: ['experience.css'],
 )
 class ExperienceComponent {
-  int value = 2;
+  int value = 0;
   final List<String> details = [
     'Most important stuff',
     'More important stuff',
