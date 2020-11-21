@@ -2,11 +2,11 @@ import 'achievement.dart';
 
 final List<Achievement> cs = [
   Achievement(
-      'IOI 2020 Bronze Medal',
+      'IOI 2020 Bronze Medalist',
       'Sept 2020',
       'Singapore',
       '''
-      <p>Bronze medal (306.1/600) at the 2020 International Olympiad in Informatics</p>
+      <p>Bronze medal (scored 306.1/600) at the 2020 International Olympiad in Informatics</p>
       ''',
       5),
   Achievement(
@@ -64,7 +64,7 @@ final List<Achievement> cs = [
       ''',
       4),
   Achievement(
-      'SACO 2018 Bronze Medal',
+      'SAPO 2018 Bronze Medalist',
       'Sept 2018',
       'Johannesburg, South Africa',
       '''
@@ -72,7 +72,7 @@ final List<Achievement> cs = [
       ''',
       3),
   Achievement(
-      'Google Code Jam 2019 3rd Round Qualifier',
+      'Google Code Jam 2019 3rd-round Qualifier',
       'May 2019',
       'Google',
       '''
@@ -80,5 +80,5 @@ final List<Achievement> cs = [
       of round 2 qualified for round 3</p>
       <p>As a bonus, I also won a Google T-shirt because of this</p>
       ''',
-      3),
+      2),
 ];

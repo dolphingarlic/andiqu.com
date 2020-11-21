@@ -2,15 +2,15 @@ import 'achievement.dart';
 
 final List<Achievement> maths = [
   Achievement(
-      'IMO 2020 Bronze Medal',
+      'IMO 2020 Bronze Medalist',
       'Sept 2020',
       'Saint Petersburg',
       '''
-      <p>Bronze medal (17/42) at the 2020 International Maths Olympiad</p>
+      <p>Bronze medal (scored 17/42) at the 2020 International Maths Olympiad</p>
       ''',
       5),
   Achievement(
-      'CMC 2020 Bronze Medal',
+      'CMC 2020 Bronze Medalist',
       'July 2020',
       'Cyberspace Mathematics Competition',
       '''
@@ -18,6 +18,13 @@ final List<Achievement> maths = [
       <p>As a bonus, I came first out of all African contestants :D</p>
       ''',
       5),
+  Achievement(
+      'SAMO 2020 Senior Winner',
+      'Sept 2020',
+      '''
+      <p>South African Maths Olympiad 2020 senior division overall winner</p>
+      ''',
+      5)
   Achievement(
       'IMO 2019 Honourable Mention',
       'July 2019',
@@ -60,7 +67,7 @@ final List<Achievement> maths = [
       ''',
       4),
   Achievement(
-      'IMAS 2018 Gold Medal',
+      'IMAS 2018 Gold Medalist',
       'June 2018',
       'International Maths Assessment for Schools',
       '''
