@@ -25,7 +25,7 @@ final List<Achievement> maths = [
       '''
       <p>South African Maths Olympiad 2020 senior division overall winner</p>
       ''',
-      5)
+      5),
   Achievement(
       'IMO 2019 Honourable Mention',
       'July 2019',
