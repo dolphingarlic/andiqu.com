@@ -21,6 +21,7 @@ final List<Achievement> maths = [
   Achievement(
       'SAMO 2020 Senior Winner',
       'Sept 2020',
+      'Johannesburg, South Africa'
       '''
       <p>South African Maths Olympiad 2020 senior division overall winner</p>
       ''',
