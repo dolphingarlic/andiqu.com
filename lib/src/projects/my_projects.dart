@@ -2,6 +2,13 @@ import 'project_card.dart';
 
 final List<Project> my_projects = [
   Project(
+    'Hex',
+    'Game of Hex made with Unity 2D. Play it on itch.io or get it on the Google Play Store!'
+    'December 2020',
+    'https://dolphingarlic.itch.io/hex',
+    'hex.png'
+  ),
+  Project(
     'Ruka',
     'My first Unity game - draw on a canvas using a mechanical arm! "Ruka" ("Рука") is Russian/Bulgarian/Croatian for "the hand".',
     'November 2020',
