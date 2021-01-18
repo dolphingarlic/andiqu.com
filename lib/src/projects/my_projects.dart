@@ -3,7 +3,7 @@ import 'project_card.dart';
 final List<Project> my_projects = [
   Project(
     'Hex',
-    'Game of Hex made with Unity 2D. Play it on itch.io or get it on the Google Play Store!'
+    'Game of Hex made with Unity 2D. Play it on itch.io or get it on the Google Play Store!',
     'December 2020',
     'https://dolphingarlic.itch.io/hex',
     'hex.png'
